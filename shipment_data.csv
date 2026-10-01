@@ -1,0 +1,6 @@
+shipment_id,origin,destination,mode,weight_tonnes,distance_km,fuel_type
+SH001,Mumbai,Dubai,Ocean,45.0,1930,HFO
+SHOO2,Delhi,Frankfrut,Air,12.5,6120,Jet-A
+SHOO3,Chennai,Bengaluru,Road,18.0,350,Diesel
+SHOO4,Kochi,Colombo,Ocean,30.0,600,VLSFO
+SHOO5,Ahemadabad,Delhi,Rail,60.0,940,Electrics
